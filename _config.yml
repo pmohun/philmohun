@@ -6,7 +6,7 @@ logo_url:           './assets/selfphoto.jpg' # Get it from GitHub API: https://a
 
 # Site Settings
 url:                https://pmohun.github.io # main url
-baseurl:            /main
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
