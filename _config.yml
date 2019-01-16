@@ -5,7 +5,7 @@ author_name:        "Philip Mohun"
 logo_url:           './assets/selfphoto.jpg' # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                http://pmohun.github.io # main url
+url:                https://pmohun.github.io # main url
 baseurl:            /main
 permalink:          /:title # Post permalink
 timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
