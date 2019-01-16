@@ -40,7 +40,7 @@ His voice continued to drone, but the man was no longer listening. He closed his
 
 <em>Packing in the night, writing the letter that said goodbye but also promised security for his family. 
 
-<em>Arriving at the station, ushered by grim faced men and relieved of his personal belongings.
+<em>Arriving at the station, ushered by grim faced men and relieved of his personal belongings.</em>
 
 
 
