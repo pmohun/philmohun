@@ -1,5 +1,3 @@
-## The Lie Predictor
-
 Lights flashed past the window like the slots on a game of chance. Inside the train people gripped their handholds, absorbed in thought as they jostled against one another. 
 
 Ella sat oblivious to the light-show and the reflection played off her eyes as she sat in thought. If she had taken a moment to focus she would have been bombarded with advertisements stretched several hundred meters to make up for the clip that the train moved at. Hardly anyone glanced at the walls outside, yet someone was paying a hefty sum for the impressions that the billboards imprinted. Studies had shown that it only took one 1/16th of a second for an advertisement to work — less than the time between breaths. Lose focus for just a moment and the signs became money well spent. 
