@@ -5,8 +5,9 @@ author_name:        "Philip Mohun"
 logo_url:           './assets/selfphoto.jpg' # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://pmohun.github.io/ # main url
-baseurl:            /main
+url:                https://pmohun.github.io # main url
+baseurl:            /the-plain
+
 permalink:          /:title # Post permalink
 timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
@@ -28,8 +29,8 @@ exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "scr
 plugins:
   - jekyll-remote-theme
 
-remote_theme: heiswayi/the-plain
 
+remote_theme: heiswayi/the-plain
 
 
 defaults:
