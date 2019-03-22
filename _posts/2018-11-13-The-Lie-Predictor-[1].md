@@ -42,4 +42,4 @@ The orb hung unmoving.
 
 Ella was considering how to proceed when she felt the ground reverberate under her feet. A crack appeared in the flawless marble and the doors swung open, seemingly of their own accord. Darkness beckoned, and she hesitated for only a moment before entering. Her figure was quickly swallowed and the doors shut with finality. 
 
-There were no passerby to witness the orb blink almost imperceptibly as Ella disappeared into the building.
+Almost imperceptibly, and without passerby to witness, no one saw the orb blink  as Ella disappeared into the building.
