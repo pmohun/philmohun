@@ -3,7 +3,7 @@ title: Books I Recommend
 updated: 2019-02-25 10:00
 ---
 
-Books that I go back to. I'm a voracious reader and enjoy sharing my favorites with others. The following list are books that I would give to anyone. 
+Books that I go back to. I am a voracious reader and enjoy sharing my favorites with others. The following list are books that I would give to anyone. 
 
 ## Science Fiction
 
@@ -33,10 +33,10 @@ Books that I go back to. I'm a voracious reader and enjoy sharing my favorites w
 
 ## Essays
 
-[The Last Question - Isacc Asimov](https://www.physics.princeton.edu/ph115/LQ.pdf)[^1]
+[The Last Question - Isacc Asimov](https://www.physics.princeton.edu/ph115/LQ.pdf) [^1]
 
 [How To Start A Startup - Paul Graham](http://www.paulgraham.com/start.html)
 
 
 <div class="divider"></div>
-[^1] https://www.youtube.com/watch?v=ojEq-tTjcc0
+[^1]: https://www.youtube.com/watch?v=ojEq-tTjcc0
