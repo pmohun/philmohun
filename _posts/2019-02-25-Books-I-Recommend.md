@@ -7,7 +7,7 @@ Books that I go back to. I am a voracious reader and enjoy sharing my favorites 
 
 ## Science Fiction
 
-[Foundation Series - Issac Asimov](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354)
+[Foundation Series - Isaac Asimov](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354)
 
 [Dune - Frank Herbert](https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717)
 
