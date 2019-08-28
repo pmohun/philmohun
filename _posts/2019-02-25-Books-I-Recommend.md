@@ -3,7 +3,7 @@ title: Books I Recommend
 updated: 2019-02-25 10:00
 ---
 
-Books that I go back to. I am a voracious reader and enjoy sharing my favorites with others. The following list are books that I would give to anyone. 
+Books that I go back to. I am a voracious reader and enjoy sharing my favorites with others. The following list contains books that I would give to anyone. 
 
 ## Science Fiction
 
