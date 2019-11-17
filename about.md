@@ -2,8 +2,9 @@
 layout: page
 title: About
 ---
+### Hi, I'm Phil. -- welcome to my website. 
 
-Hello -- welcome to my website. This is a place for me to keep things that I wouldn't otherwise post publicly. Most posts and stories are musings to myself, but you might find them interesting too. 
+This is a place for me to keep things that I wouldn't otherwise post publicly. Most posts and stories are musings to myself, but you might find them interesting too. 
 
 I currently work in healthcare to design and implement blockchain technology. My goal is to offer simpler ways to deliver care. 
 
