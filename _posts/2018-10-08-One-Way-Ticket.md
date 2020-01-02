@@ -5,7 +5,7 @@ updated: 2018-10-08 05:00
 
 The man’s signature lay wet and glistening on the page. His hand lifted and the ink smeared a ghastly trail of black. It’s possible that he would have sat there for eternity, unable to look away from the dark smudge seeping into his hand, had the attendant not shaken him gently by the shoulder and directed him to a waiting area. 
 
-He took in his surroundings for the first time since entering the facility. The room was gently lit room and chairs were organized in neat rows. A dark podium stood at the front of the room. Behind the podium lay a door, where attendants of various sorts flitted back and forth as they went about their duties. Above the door, in block lettering:
+He took in his surroundings for the first time since entering the facility. The room was gently lit. Chairs were organized in neat rows, facing a dark podium at the front of the room. Behind the podium lay a door, where attendants of various sorts flitted back and forth as they went about their duties. Above the door, in block lettering:
 
 ##### US MINING CO
 
