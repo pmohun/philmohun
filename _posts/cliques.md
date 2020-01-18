@@ -1,0 +1,66 @@
+---
+title: Cliques
+updated: 2020-01-17 10:00
+---
+
+We get along best with others who we share things in common with. Growing up, this means that kids tend to clump into cliques: the jocks, the nerds, the drama kids, the partiers, and so on. 
+
+Cliques aren’t unique to high school, but it does seem to be the earliest developmental stage that they appear. Prior to high school, kids lack the independence to choose their own activities, so their peer groups are usually made up of other kids with similar family interests. While these groups may be indicative of their interests later in life, very often they are not. 
+
+If every kid who was forced to play peewee football or attend karate lessons stuck with these activities throughout their lives, there would be a lot more black belts walking around. There is a clear distinction between the kids who are enrolled in these activities by their parents, and those who actually enjoy them as an adult. You can tell which type a kid is by the way that they act when they get picked up from the activity: do they joke with the others in the group, or do they get straight into the car or bus to go home? 
+
+It’s probably a function of our society that determines what clubs are popular. This popularity is decided by the parents and is very different across geographies. In the South, boys are expected to play football. Growing up in the Bay Area, kids might join a programming club or robotics camp. Los Angeles drama clubs are filled with kids whose parents have enrolled their children in piano, voice, and acting lessons. 
+
+As kids grow up into teenagers, these groups become cliques and tend to be self-selecting. By self-selecting, I mean that even though teenagers now have more freedom to choose how they spend their time, they will likely stick with others that have similar interests. 
+
+I was always struck by how little cross-pollination happens between cliques. In high school, there are often very clear lines drawn between members of different social circles, and the best place to observe this was the cafeteria. Tables where you ate lunch were the teenage equivalent of neighborhoods. It’s difficult to sit at two tables simultaneously, so teenagers must make a choice. 
+
+Cross-pollination can happen, but it’s usually a product of circumstance rather than choice. When I was in high school, I was part of a few groups that tended to be mutually exclusive. This wasn’t through my own choosing; I lived so far from my school that the kids in my neighborhood were different from those that participated in after school activities. During sports seasons, I would be a part of one clique, but when the season was over I would ship off back home and rejoin another. This let me observe this phenomenon, because I was partially outside of both groups depending on the season. 
+
+For most teenagers, schools are asking them to make a choice:
+
+Am I part of the jocks or the drama kids? Do I sit with the math club or the student council? Especially during high-school, choosing who your peers are seems critically important to defining your identity.
+
+This also provides an explanation for the popularity contest that high school seems to be. Popularity, like any other clique, is a result of individuals dedicating attention to a specific topic. In the case of popularity, the topic tends to be knowing the correct conversations, fashion choices, and memes of the moment. Even if someone isn’t focused solely on “being popular” (some teens are, undoubtedly), they may self-select themselves into this group as a function of who they spend time with. 
+
+Is it true then that teenagers are so judgmental? I don’t think so. 
+
+On average, most teenagers have a range of interests, just like adults. It’s just that while in high-school, there are so few chances to distinguish your preferences that teenagers are forced to make a choice by voting with their feet. This means that the composition of cliques as a whole is much more segregated than any individual person within them. 
+
+This seems to apply to adults as well. Even though most of us would consider ourselves fairly tolerant, a quick look at our social circles usually reveals people who look just like us. Once again, mild individual preferences tend to result in a larger group segregation effect. [1] This aggregation effect stems from each person, summing into an effect greater than its parts. 
+
+It’s not that we don’t want to spend time with people who aren’t like us. In fact, this is why traveling is so popular as an activity. It lets people explore other cliques, without needing to join a group where they feel like the minority. 
+
+As a thought experiment, think back to the last time that you traveled outside of your home city or country. Did you meet someone from your original country or city while traveling? If so, it’s likely that there was an immediate bond. This is something that I like to think of as the Tourist effect. 
+
+The Tourist effect is the following conversation while traveling: 
+
+“You’re from where? Me too! How crazy is it that we happened to meet here, of all places!”
+
+That person who you seemed to share so much in common with would likely not be part of your social circle at home, even though it’s obvious that you have no problem interacting with them. As with most things, it’s the contrast between your surroundings and your preferences that make all the difference. 
+
+This gets me to my point: what we consider our interests to be is almost entirely defined by our surroundings.
+
+When people are forced to differentiate themselves, they will do so to a level that is appropriate for their surroundings. Humans naturally tend to categorize things, and cliques are our way of categorizing ourselves.
+
+It’s also why cliques don’t really show up before high school. Kids haven’t been exposed to as many topics, so it’s fine for kids to have a homogeneous view of themselves; there are plenty of other interesting things to focus on. At some point though, we learn labels for most things, and then turn to each other. 
+
+This causes problems when people get too attached to one clique. 
+
+It’s the reason why academics will bitterly dispute over a nuance within their fields that an outside observer would never notice. It’s the reason why neighborhoods will be predominantly one race, even when the individuals don’t consider themselves to be insular. It’s the reason politicians take polarizing stances, feigning outrage when the opposite party disagrees.  People instinctively try to differentiate themselves depending on how much their identify contrasts with others in their environment. In a room full of people like you, it becomes important to focus on differences to stand out. 
+
+The good news is that there is a fix hidden in the problem. If we can encourage mobility, then we can reduce the clique culture that has started to seep into American society. 
+
+All it took for me to avoid clique culture was an unfortunate bus schedule; if there had been a way for me to stick around after school then I would have undoubtedly stayed with one group throughout the year. It was only because of my enforced commute that I branched out and explored other groups. Perhaps this can be generalized into a lesson for avoiding cliques: self-imposed restrictions to prevent spending too much time with one group. 
+
+Being part-time in cliques can be tough. You feel like an outsider by missing important context and experiences. This will feel difficult at first, but ultimately means a broader diversity of experiences and connections.
+
+Another observation that may lend a clue is the Tourist effect we talked about earlier. People tend to look for common ground with others when their surroundings are foreign. By sharing experiences when both parties are in new territory, it places an emphasis on similarities, rather than scrambling for ways to differentiate. To break down cliques, try bringing together people from separate groups into an environment that is new for both of them. This works best by starting with people who have lower individual preferences for cliques, and letting their actions influence the broader group. 
+
+Cliques are so prevalent because they are the default option. They are the result of two factors: individual choices adding up to a large group effect, and people seeking differentiation. Changing this requires making a conscious choice, but gets easier once you commit to trying. 
+
+<div class="divider"></div>
+
+Footnotes
+
+[1] This is a well known problem in economics called The Schelling model of segregation. It illustrates how individual tendencies regarding neighbors can lead to segregation. The model is especially useful for the study of residential segregation of ethnic groups where agents represent householders who relocate in the city. Check out a map of New York city for a real-world example of this effect. 
