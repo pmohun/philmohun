@@ -13,4 +13,6 @@ With this in mind, I began to collect words that do not have a direct English tr
 
 ## German
 
-Ferweh is homesickness for a place you've never visted before. Also translated as wanderlust, although this fails to capture the full meaning. 
+[Fernweh](https://en.wiktionary.org/wiki/Fernweh) is homesickness for a place you've never visted before. Also translated as wanderlust, although this fails to capture the full meaning. 
+
+[Sehnsucht](https://en.wikipedia.org/wiki/Sehnsucht) represents thoughts and feelings about all facets of life that are unfinished or imperfect, paired with a yearning for ideal alternative experiences.
