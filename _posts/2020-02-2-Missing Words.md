@@ -10,3 +10,7 @@ With this in mind, I began to collect words that do not have a direct English tr
 
 [Ikigai](https://en.wikipedia.org/wiki/Ikigai) (生き甲斐, pronounced [ikiɡai]) is a Japanese concept that means "a reason for being". 
 
+
+## German
+
+Ferweh is homesickness for a place you've never visted before. Also translated as wanderlust, although this fails to capture the full meaning. 
