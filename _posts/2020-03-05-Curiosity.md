@@ -18,7 +18,11 @@ These questions are useful heuristics, but only work if you’re willing to spre
 
 -- 
 
-What if your goal is not to discover an amateur expert, but to become one? One of my favorite definitions for expertise comes from Niels Bohr, who described an expert as “a person who has made all the mistakes that can be made in a very narrow field.” A corollary to this statement is: becoming an expert requires applied curiosity over a long enough time period to make those mistakes. Without curiosity, it’s simply too difficult to keep going without giving up. This essay attempts to answer the question: what are the most promising strategies for someone looking to nurture intellectual curiosity?
+What if your goal is not to discover an amateur expert, but to become one? 
+
+One of my favorite definitions for expertise comes from Niels Bohr, who described an expert as “a person who has made all the mistakes that can be made in a very narrow field.” A corollary to this statement is: becoming an expert requires applied curiosity over a long enough time period to make those mistakes. Without curiosity, it’s simply too difficult to keep going without giving up. 
+
+This essay attempts to answer the question: what are the most promising strategies for someone looking to nurture intellectual curiosity?
 
 ## Be Honest
 Curiosity seems to be strongest in areas where you have a personal connection to the topic. This is why we often see people diagnosed with some rare illness become experts overnight: they are driven by a personal desire to learn everything, even if they don’t follow a conventional path. In a commencement speech at Stanford University, Steve Jobs called this “connecting the dots” — it’s the process of linking your past experiences in a way that creates new ideas.
