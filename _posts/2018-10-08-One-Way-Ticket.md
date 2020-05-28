@@ -1,5 +1,6 @@
 ---
 title: One Way Ticket
+category: stories
 updated: 2018-10-08 05:00
 ---
 
