@@ -1,5 +1,6 @@
 ---
 title: Climbing The Right Hill
+category: essays
 updated: 2019-09-03 10:00
 ---
 
