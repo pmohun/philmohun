@@ -14,23 +14,3 @@
 	<span class="logo-prompt code">{{ prompt }}</span>
 
 </aside>
-
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-	    
-        {% for post in site.posts %}
-          {% if post.category %}
-          <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.category }}</a>
-          {% endif %}
-        {% endfor %}
-	    
-    </nav>
-
-  </div>
-
-</header>
