@@ -1,5 +1,6 @@
 ---
 title: Dead But Don't Know It
+category: essays
 updated: 2018-11-07 8:00
 ---
 
